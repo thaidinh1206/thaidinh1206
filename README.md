@@ -73,11 +73,6 @@ Multi-domain receipt information extraction (company, date, address, total) acro
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaidinh1206&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaidinh1206&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 <p align="center"><i>“Ship models that work outside the notebook.”</i></p>
